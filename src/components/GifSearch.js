@@ -22,7 +22,7 @@ function GifSearch({ onSearch }) {
           onChange={handleInputChange}
         />
       </label>
-      <button type="submit">Find Gif</button>
+      <button type="submit" >Find Gif</button>
     </form>
   );
 }
